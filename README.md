@@ -2,7 +2,6 @@
 ## Vitória Sousa
 [![Dev & Ciência da Computação](https://img.shields.io/badge/Dev%20%26%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-blue?style=flat-square)](https://www.linkedin.com/in/vit%C3%B3ria-sousa-100701260/)
 
-Desenvolvedora e estudante de **Ciência da Computação**.
 ## Tecnologias
 
 **Linguagens:**
