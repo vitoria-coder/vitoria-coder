@@ -1,9 +1,8 @@
 
 ## Vitória Sousa
-[![Desenvolvedora em Aprendizado](https://img.shields.io/badge/Desenvolvedora-em%20Aprendizado-blue)](https://www.linkedin.com/in/vit%C3%B3ria-sousa-100701260/)
+[![Desenvolvedora](https://img.shields.io/badge/Desenvolvedora-em%20Aprendizado-blue)](https://www.linkedin.com/in/vit%C3%B3ria-sousa-100701260/)
 
-Entusiasta da tecnologia com foco em aprimorar minhas habilidades em desenvolvimento. Explorando diversas áreas e sempre aberta a novos aprendizados. **Atualmente cursando Ciência da Computação.**
-
+Desenvolvedora e estudante de **Ciência da Computação**.
 ## Tecnologias
 
 **Linguagens:**
